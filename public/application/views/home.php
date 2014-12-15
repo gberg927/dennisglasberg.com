@@ -13,7 +13,7 @@
 		<link rel="icon" href="../../favicon.ico">
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-		<link href="css/style.css" rel="stylesheet">
+		<link href="<?php echo base_url(); ?>css/style.css" rel="stylesheet">
 	</head>
 
 	<body>
