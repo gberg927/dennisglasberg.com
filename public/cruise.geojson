@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "latitude": 26.089547, "longitude": -80.115723, "time": 1, "id": "route1", "name": "Ft Lauderdale" }, "geometry": { "type": "Point", "coordinates": [ -80.115723, 26.089547 ] } },
+{ "type": "Feature", "properties": { "latitude": 26.089547, "longitude": -80.115723, "time": 1, "id": "route1", "name": "Fort Lauderdale" }, "geometry": { "type": "Point", "coordinates": [ -80.115723, 26.089547 ] } },
 { "type": "Feature", "properties": { "latitude": 25.482156, "longitude": -80.015719, "time": 2, "id": "route1", "name": "Along Route" }, "geometry": { "type": "Point", "coordinates": [ -80.015719, 25.482156 ] } },
 { "type": "Feature", "properties": { "latitude": 24.596280, "longitude": -80.905612, "time": 2, "id": "route1", "name": "Along Route" }, "geometry": { "type": "Point", "coordinates": [ -80.905612, 24.596280 ] } },
 { "type": "Feature", "properties": { "latitude": 24.557322, "longitude": -81.809146, "time": 2, "id": "route1", "name": "Key West" }, "geometry": { "type": "Point", "coordinates": [ -81.809146, 24.557322 ] } },
@@ -14,6 +14,6 @@
 { "type": "Feature", "properties": { "latitude": 22.886751, "longitude": -84.706881, "time": 2, "id": "route1", "name": "Along Route" }, "geometry": { "type": "Point", "coordinates": [ -84.706881, 22.886751 ] } },
 { "type": "Feature", "properties": { "latitude": 24.596280, "longitude": -80.905612, "time": 2, "id": "route1", "name": "Along Route" }, "geometry": { "type": "Point", "coordinates": [ -80.905612, 24.596280 ] } },
 { "type": "Feature", "properties": { "latitude": 25.482156, "longitude": -80.015719, "time": 2, "id": "route1", "name": "Along Route" }, "geometry": { "type": "Point", "coordinates": [ -80.015719, 25.482156 ] } },
-{ "type": "Feature", "properties": { "latitude": 26.089547, "longitude": -80.115723, "time": 5, "id": "route1", "name": "Ft Lauderdale" }, "geometry": { "type": "Point", "coordinates": [ -80.115723, 26.089547 ] } }
+{ "type": "Feature", "properties": { "latitude": 26.089547, "longitude": -80.115723, "time": 5, "id": "route1", "name": "Fort Lauderdale" }, "geometry": { "type": "Point", "coordinates": [ -80.115723, 26.089547 ] } }
 ]
 }
