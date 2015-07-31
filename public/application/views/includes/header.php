@@ -22,13 +22,5 @@
 		<div class="container">
 			<div class="header">
 				<h3 class="masthead-brand">Dennis Glasberg</h3>
-				<nav>
-					<ul class="nav masthead-nav">
-						<li class="active"><a href="<?php echo base_url(); ?>home">Home</a></li>
-						<li><a href="<?php echo base_url(); ?>about">About</a></li>
-						<li><a href="<?php echo base_url(); ?>contact">Contact</a></li>
-					</ul>
-				</nav>
 			</div>
 		</div>
-		

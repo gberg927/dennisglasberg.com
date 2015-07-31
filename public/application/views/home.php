@@ -13,14 +13,6 @@
                             </a>
                         </li>
                         <li>
-                            <a href="http://soundcloud.com/whothefuckismarcus">
-                                <span class="fa-stack fa-lg social">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-soundcloud fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <li>
                             <a href="http://www.linkedin.com/in/dennisglasberg">
                                 <span class="fa-stack fa-lg social">
                                     <i class="fa fa-circle fa-stack-2x"></i>
