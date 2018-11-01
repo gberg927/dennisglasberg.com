@@ -15,7 +15,7 @@
 </div>
 
 <script>
-	var date  = new Date(2015, 0, 18, 21, 0, 0);
+	var date  = new Date(2018, 10, 9, 0, 0, 0);
 	var now   = new Date();
 	var diff  = date.getTime() / 1000 - now.getTime() / 1000;
 
